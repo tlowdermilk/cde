@@ -3,7 +3,10 @@
 
 @import "{{ site.theme }}";
 a:hover {
-    font-weight: 400;
+    font-weight: inherit;
     color:#D34581;
     text-decoration: dotted;
+}
+img[alt="Logo"]{
+    width:100px;
 }
