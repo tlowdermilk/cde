@@ -63,6 +63,8 @@ These are books that have been influential in our development of [Customer-Drive
 
 [Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity](https://smile.amazon.com/Radical-Candor-Revised-Kick-Ass-Humanity/dp/1250235375/) by Kim Scott. Published by St. Martin’s Press, 2017.
 
+[Range: Why Generalists Triumph in a Specialized World](https://smile.amazon.com/Range-Generalists-Triumph-Specialized-World/dp/0735214484/) by David Epstein. Published by Riverhead, 2019.
+
 [Rebels at Work: A Handbook for Leading Change from Within](https://smile.amazon.com/Rebels-Work-Handbook-Leading-Change/dp/1491903953/) by Lois Kelly and Carmen Medina. Published by O’Reilly Media, 2014.
 
 [Show and Tell: How Everybody Can Make Extraordinary Presentations](https://smile.amazon.com/Show-Tell-Everybody-Extraordinary-Presentations/dp/1591848024/) by Dan Roam. Published by Portfolio, 2016.
@@ -106,3 +108,5 @@ These are books that have been influential in our development of [Customer-Drive
 [Trillion Dollar Coach: The Leadership Playbook of Silicon Valley’s Bill Campbell](https://smile.amazon.com/Trillion-Dollar-Coach-Leadership-Playbook/dp/0062839268/) by Erich Schmidt, Jonathan Rosenberg, and Alan Eagle. Published by Harper Business, 2019.
 
 [Upstream: The Quest to Solve Problems Before They Happen](https://smile.amazon.com/Upstream-Quest-Problems-Before-Happen/dp/1982134720/) by Dan Heath. Published by Simon & Schuster, 2020.
+
+[You're Not Listening: What You're Missing and Why it Matters](https://smile.amazon.com/Youre-Not-Listening-Missing-Matters/dp/1250297192/) by Kate Murphy. Published by Celadon, 2020.
